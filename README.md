@@ -1,2 +1,1 @@
-# account-steal
-roblox account stealer
+make sure you follow all steps
